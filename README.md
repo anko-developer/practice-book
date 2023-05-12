@@ -1,2 +1,4 @@
-# practice-book
-JavaScript PracticeBook
+# 연습장
+JavaScript,
+TypeScript,
+Programmers CodingTest 
